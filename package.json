@@ -10,6 +10,8 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@cloudscape-design/components": "^3.0.1235",
+    "@cloudscape-design/global-styles": "^1.0.52",
     "next": "16.1.7",
     "react": "19.2.3",
     "react-dom": "19.2.3"
